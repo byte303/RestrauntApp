@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="10dp"
+    android:background="@color/borders"
+    android:orientation="vertical"
+    android:elevation="10dp"
+    app:behavior_hideable="false"
+    app:behavior_peekHeight="0dp"
+    app:layout_behavior="@string/bottom_sheet_behavior">
+
+    <TextView
+        android:id="@+id/txtTitle"
+        android:text="Возврат блюда"
+        android:textSize="18sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:textColor="@color/text"
+        android:text="В случае, если клиент не доволен приготовленным блюдом или же в блюде присутвуют какие-то проблемы, его можно вернуть на кухню. Вы хотите сделать возврат данного блюда?"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/btnDone"
+        android:text="Возврат"
+        android:layout_marginTop="10dp"
+        style="@style/ButtonStyle"
+        />
+
+
+</LinearLayout>

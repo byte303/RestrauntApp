@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Ресторан</string>
+
+    <string-array name="table_status">
+        <item>Неизвестно</item>
+        <item>Свободен</item>
+        <item>Забронирован</item>
+        <item>Занят</item>
+    </string-array>
+
+    <string-array name="order_cook_status">
+        <item>Новый заказ</item>
+        <item>Заказ принят</item>
+        <item>Заказ изменен</item>
+        <item>Заказ отправлен</item>
+        <item>Возврат</item>
+    </string-array>
+
+    <integer-array name="order_cook_status_color">
+        <item>@color/green</item>
+        <item>@color/yellow</item>
+        <item>@color/orange</item>
+        <item>@color/green</item>
+        <item>@color/red</item>
+    </integer-array>
+
+    <string-array name="order_status">
+        <item>Показать все</item>
+        <item>Только не оплаченные</item>
+        <item>Только оплаченные</item>
+    </string-array>
+
+    <integer-array name="order_status_color">
+        <item>@color/red</item>
+        <item>@color/green</item>
+        <item>@color/yellow</item>
+        <item>@color/orange</item>
+        <item>@color/green</item>
+        <item>@color/red</item>
+    </integer-array>
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/drawable/background_splash.xml" value="0.1775" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/drawable/element_radius.xml" value="0.1775" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/drawable/radio_stats_active.xml" value="0.2045" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/drawable/radio_stats_not_active.xml" value="0.2045" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/drawable/radio_stats_selector.xml" value="0.2045" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/drawable/shape_round.xml" value="0.1775" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout-land/activity_order.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout-land/bottom_dialog_count_columns.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout-land/bottom_dialog_menu_order.xml" value="0.29375" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout-land/bottom_dialog_status_done.xml" value="0.1734375" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout-land/bottom_dialog_visitors.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/activity_main_cook.xml" value="0.25" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/activity_order.xml" value="0.22" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/bottom_dialog_add.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/bottom_dialog_cook_cancel.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/bottom_dialog_cook_return.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/bottom_dialog_count_columns.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/bottom_dialog_home.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/bottom_dialog_info_price.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/bottom_dialog_menu_order.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/bottom_dialog_payment.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/bottom_dialog_status_done.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/bottom_dialog_type_order.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/bottom_dialog_url.xml" value="0.5" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/bottom_dialog_visitors.xml" value="0.196875" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/dialog_loading.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/dialog_sort_home.xml" value="0.19583333333333333" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/fragment_changed.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/fragment_cook_details.xml" value="0.25" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/fragment_cook_list_menu.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/fragment_cook_my_order.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/fragment_help.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/fragment_main_cook.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/fragment_profile.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/fragment_select_table.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/item_dropdown.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/layout_delete_item.xml" value="0.196875" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/layout_number_item.xml" value="0.196875" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/list_details_cook.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/list_menu_order.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/list_order.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/list_order_cook.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/list_product.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/list_product_check.xml" value="0.5" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/list_tab.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/list_table.xml" value="0.5" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/list_type_order.xml" value="0.22" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/layout/list_visitors.xml" value="0.33" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+        <entry key="..\:/projectOrder/RestrauntApp/app/src/main/res/menu/bottom_nav_menu_cook.xml" value="0.196875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

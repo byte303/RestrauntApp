@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:paddingTop="18dp"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp">
+        <ImageView
+            android:id="@+id/imgLogo"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:src="@drawable/myfinlogo"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+        <TextView
+            android:id="@+id/txtLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:text="byte30"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            app:layout_constraintStart_toEndOf="@+id/imgLogo"
+            app:layout_constraintTop_toTopOf="@+id/imgLogo" />
+
+        <TextView
+            android:id="@+id/txtId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="ID: 279030952"
+            android:textColor="@color/text"
+            android:textSize="14sp"
+            app:layout_constraintBottom_toBottomOf="@+id/imgLogo"
+            app:layout_constraintStart_toStartOf="@+id/txtLogin"
+            app:layout_constraintTop_toBottomOf="@+id/txtLogin" />
+
+        <View
+            android:id="@+id/view"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/text"
+            app:layout_constraintTop_toBottomOf="@+id/txtId"
+            tools:layout_editor_absoluteX="16dp" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="28dp"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/view"
+            tools:layout_editor_absoluteX="16dp">
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnMyWork"
+                style="@style/ButtonSettings"
+                android:drawableStart="@drawable/ic_baseline_work_outline_24"
+                android:text="Мои заказы" />
+
+
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnHelp"
+                style="@style/ButtonSettings"
+                android:drawableStart="@drawable/ic_baseline_support_agent_24"
+                android:text="Поддержка" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnSetting"
+                style="@style/ButtonSettings"
+                android:drawableStart="@drawable/ic_baseline_edit_24"
+                android:text="Смена пароля" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnCount"
+                style="@style/ButtonSettings"
+                android:drawableStart="@drawable/ic_baseline_settings_24"
+                android:text="Количество столбцов" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnExit"
+                style="@style/ButtonSettings"
+                android:drawableStart="@drawable/ic_baseline_exit_to_app_24"
+                android:drawableTint="#D73E3E"
+                android:text="Выход"
+                android:textColor="#D73E3E" />
+        </LinearLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.core.widget.NestedScrollView>

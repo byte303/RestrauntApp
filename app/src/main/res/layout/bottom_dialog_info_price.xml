@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="10dp"
+    android:background="@color/borders"
+    android:orientation="vertical"
+    android:elevation="10dp"
+    app:behavior_hideable="false"
+    app:behavior_peekHeight="0dp"
+    app:layout_behavior="@string/bottom_sheet_behavior">
+
+    <TextView
+        android:id="@+id/txtTitle"
+        android:text="Информация о заказе"
+        android:textSize="18sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/txtDiscount"
+        android:layout_marginTop="10dp"
+        android:textSize="15sp"
+        android:text="Скидка: 10%"
+        android:textColor="@color/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:id="@+id/txtWaiter"
+        android:textSize="15sp"
+        android:text="Оплата официанту: 1000"
+        android:textColor="@color/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/txtHall"
+        android:textSize="15sp"
+        android:text="Стоимость зала: 1000"
+        android:textColor="@color/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/txtPrice"
+        android:textSize="18sp"
+        android:text="Общая стоимость: 1000"
+        android:textColor="@color/text"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

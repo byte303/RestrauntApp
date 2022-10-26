@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text">#B7C0CB</color>
+    <color name="borders">#272730</color>
+
+    <color name="red">#F14C4C</color>
+    <color name="green">#11AF53</color>
+    <color name="yellow">#FBC02D</color>
+    <color name="background">#3B5059</color>
+
+    <color name="greyish">#aaa8a8</color>
+    <color name="mine_shaft">#303030</color>
+
+    <color name="orange">#F57C00</color>
+    <color name="osn">#577482</color>
+
+    <color name="blue">#435DED</color>
+
+    <color name="typing">#FF36C44B</color>
+</resources>
